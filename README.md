@@ -13,13 +13,12 @@
 🔹 **Mano robótica controlada por cámara de celular** con **Java, Firebase, OpenCV y Flask**  
 
 📈 **Estadísticas:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)  
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasmus-hub&show_icons=true&theme=tokyonight)  
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=rasmus-hub&layout=compact&theme=tokyonight)  
 
 📫 **Contáctame:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/tuusuario)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/gustavo-olivera-pizarro-807ab525b/))  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/goprints.cl/)  
 
 
 <!---
