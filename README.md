@@ -1,3 +1,5 @@
+![Mi Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHc4YmpldGlwdDduODF4OHhqenhveXY5bm5teGNqY2o0bWUzbTRjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif)
+
 # 👋 ¡Hola! Soy Gustavo
 
 💻 **Desarrollador Full Stack Junior** | 🎥 **Freelancer en edición de video** | 🎯 **Apasionado por la tecnología y la innovación**  
@@ -10,7 +12,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 📌 **Proyecto destacado:**  
-🔹 **Mano robótica controlada por cámara de celular** con **Java, Firebase, OpenCV y Flask**  
+🔹 **Mano robótica controlada por cámara de celular** con **Java, C++, Firebase, OpenCV y Flask**  
 
 📈 **Estadísticas:**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasmus-hub&show_icons=true&theme=tokyonight)  
