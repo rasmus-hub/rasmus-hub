@@ -12,6 +12,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=yellow)
 ![Red Hat](https://img.shields.io/badge/-Red%20Hat-FF0000?style=flat&logo=red%20hat&logoColor=black)
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-ff5900?style=flat&logo=autodesk)
 
 📌 **Proyecto destacado:**  
 🔹 **Mano robótica controlada por cámara de celular** con **Java, C++, Firebase, OpenCV y Flask**  
