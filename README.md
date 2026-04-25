@@ -1,6 +1,6 @@
 ![Banner](https://github.com/rasmus-hub/rasmus-hub/blob/60ab493bf6d5c902d1e7242f5724f689537c7094/bannergithub.png)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-olivera-807ab525b/)
+---
 
 embedded systems and full stack developer, specialized in 3D design, robotics and web development with modern technologies.
 
@@ -16,4 +16,4 @@ embedded systems and full stack developer, specialized in 3D design, robotics an
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-02539A?style=flat-square&logo=autodesk&logoColor=white)
 
-![Banner 1](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFqcHpvdTN6YzE5czQybjBrYmYzdHJnNnJqa2dsZWI0cHQzZnRhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif)
+![Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFqcHpvdTN6YzE5czQybjBrYmYzdHJnNnJqa2dsZWI0cHQzZnRhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif)
