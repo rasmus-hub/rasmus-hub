@@ -1,4 +1,4 @@
-[![Banner](https://github.com/rasmus-hub/rasmus-hub/blob/60ab493bf6d5c902d1e7242f5724f689537c7094/bannergithub.png)
+![Banner](https://github.com/rasmus-hub/rasmus-hub/blob/60ab493bf6d5c902d1e7242f5724f689537c7094/bannergithub.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-olivera-807ab525b/)
 
