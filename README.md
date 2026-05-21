@@ -17,4 +17,4 @@ embedded systems and full stack developer, specialized in 3D design, robotics an
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-02539A?style=flat-square&logo=autodesk&logoColor=white)
 
-![Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFqcHpvdTN6YzE5czQybjBrYmYzdHJnNnJqa2dsZWI0cHQzZnRhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif)
+![Gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lzenYxYzM5NTd3bHhkNnA1MDFnM3BpMnB4NjY5aW85OTlyb3A4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2sXhiDL1mQlwsf1wIs/giphy.gif)
